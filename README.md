@@ -77,7 +77,7 @@ Incident Assessment
 Endpoint Hardening
       ↓
 Encrypted Data Protection
-
+```
 
 ## Key Findings
 
